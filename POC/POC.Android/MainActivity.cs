@@ -20,7 +20,12 @@ namespace POC.Droid
             base.OnCreate(bundle);
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
+
             LoadApplication(new App());
+
+            POC.Droid.DLScan.Listener.Create(this);
+
+
         }
     }
 }

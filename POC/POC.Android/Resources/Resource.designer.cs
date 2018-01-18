@@ -2738,17 +2738,20 @@ namespace POC.Droid
 			// aapt resource value: 0x7f020109
 			public const int notification_icon_background = 2130837769;
 			
-			// aapt resource value: 0x7f02010c
-			public const int notification_template_icon_bg = 2130837772;
-			
 			// aapt resource value: 0x7f02010d
-			public const int notification_template_icon_low_bg = 2130837773;
+			public const int notification_template_icon_bg = 2130837773;
+			
+			// aapt resource value: 0x7f02010e
+			public const int notification_template_icon_low_bg = 2130837774;
 			
 			// aapt resource value: 0x7f02010a
 			public const int notification_tile_bg = 2130837770;
 			
 			// aapt resource value: 0x7f02010b
 			public const int notify_panel_notification_icon_bg = 2130837771;
+			
+			// aapt resource value: 0x7f02010c
+			public const int xamarin_logo = 2130837772;
 			
 			static Drawable()
 			{
@@ -3700,14 +3703,353 @@ namespace POC.Droid
 			// aapt resource value: 0x7f090027
 			public const int abc_toolbar_collapse_description = 2131296295;
 			
+			// aapt resource value: 0x7f09003e
+			public const int all = 2131296318;
+			
+			// aapt resource value: 0x7f09003f
+			public const int all_1d = 2131296319;
+			
+			// aapt resource value: 0x7f090040
+			public const int all_2d = 2131296320;
+			
+			// aapt resource value: 0x7f090041
+			public const int all_exclude_addon = 2131296321;
+			
+			// aapt resource value: 0x7f090042
+			public const int app_name = 2131296322;
+			
 			// aapt resource value: 0x7f090036
 			public const int appbar_scrolling_view_behavior = 2131296310;
+			
+			// aapt resource value: 0x7f090043
+			public const int australian_postal = 2131296323;
+			
+			// aapt resource value: 0x7f090044
+			public const int aztec = 2131296324;
+			
+			// aapt resource value: 0x7f090045
+			public const int aztec_runes = 2131296325;
+			
+			// aapt resource value: 0x7f090046
+			public const int bookland = 2131296326;
 			
 			// aapt resource value: 0x7f090037
 			public const int bottom_sheet_behavior = 2131296311;
 			
+			// aapt resource value: 0x7f090047
+			public const int british_postal = 2131296327;
+			
+			// aapt resource value: 0x7f090048
+			public const int canadian_postal = 2131296328;
+			
+			// aapt resource value: 0x7f090049
+			public const int cca_ean128 = 2131296329;
+			
+			// aapt resource value: 0x7f09004a
+			public const int cca_ean13 = 2131296330;
+			
+			// aapt resource value: 0x7f09004b
+			public const int cca_ean8 = 2131296331;
+			
+			// aapt resource value: 0x7f09004c
+			public const int cca_gs1_databar_14 = 2131296332;
+			
+			// aapt resource value: 0x7f09004d
+			public const int cca_gs1_databar_expanded = 2131296333;
+			
+			// aapt resource value: 0x7f09004e
+			public const int cca_gs1_databar_limited = 2131296334;
+			
+			// aapt resource value: 0x7f09004f
+			public const int cca_rss14 = 2131296335;
+			
+			// aapt resource value: 0x7f090050
+			public const int cca_rss_exp = 2131296336;
+			
+			// aapt resource value: 0x7f090051
+			public const int cca_rss_ltd = 2131296337;
+			
+			// aapt resource value: 0x7f090052
+			public const int cca_upca = 2131296338;
+			
+			// aapt resource value: 0x7f090053
+			public const int cca_upce = 2131296339;
+			
+			// aapt resource value: 0x7f090054
+			public const int ccb_ean128 = 2131296340;
+			
+			// aapt resource value: 0x7f090055
+			public const int ccb_ean13 = 2131296341;
+			
+			// aapt resource value: 0x7f090056
+			public const int ccb_ean8 = 2131296342;
+			
+			// aapt resource value: 0x7f090057
+			public const int ccb_gs1_databar_14 = 2131296343;
+			
+			// aapt resource value: 0x7f090058
+			public const int ccb_gs1_databar_expanded = 2131296344;
+			
+			// aapt resource value: 0x7f090059
+			public const int ccb_gs1_databar_limited = 2131296345;
+			
+			// aapt resource value: 0x7f09005a
+			public const int ccb_rss14 = 2131296346;
+			
+			// aapt resource value: 0x7f09005b
+			public const int ccb_rss_exp = 2131296347;
+			
+			// aapt resource value: 0x7f09005c
+			public const int ccb_rss_ltd = 2131296348;
+			
+			// aapt resource value: 0x7f09005d
+			public const int ccb_upca = 2131296349;
+			
+			// aapt resource value: 0x7f09005e
+			public const int ccb_upce = 2131296350;
+			
+			// aapt resource value: 0x7f09005f
+			public const int ccc_ean128 = 2131296351;
+			
 			// aapt resource value: 0x7f090038
 			public const int character_counter_pattern = 2131296312;
+			
+			// aapt resource value: 0x7f090060
+			public const int chinese_post = 2131296352;
+			
+			// aapt resource value: 0x7f090061
+			public const int chinese_sensible = 2131296353;
+			
+			// aapt resource value: 0x7f090062
+			public const int codabar = 2131296354;
+			
+			// aapt resource value: 0x7f090063
+			public const int codabar_abc = 2131296355;
+			
+			// aapt resource value: 0x7f090064
+			public const int codabar_cx = 2131296356;
+			
+			// aapt resource value: 0x7f090065
+			public const int codablock_a = 2131296357;
+			
+			// aapt resource value: 0x7f090066
+			public const int codablock_f = 2131296358;
+			
+			// aapt resource value: 0x7f090067
+			public const int code_11 = 2131296359;
+			
+			// aapt resource value: 0x7f090068
+			public const int code_11_one_checkdigit = 2131296360;
+			
+			// aapt resource value: 0x7f090069
+			public const int code_11_two_checkdigits = 2131296361;
+			
+			// aapt resource value: 0x7f09006a
+			public const int code_128 = 2131296362;
+			
+			// aapt resource value: 0x7f09006b
+			public const int code_16k = 2131296363;
+			
+			// aapt resource value: 0x7f09006c
+			public const int code_2of5 = 2131296364;
+			
+			// aapt resource value: 0x7f09006d
+			public const int code_32 = 2131296365;
+			
+			// aapt resource value: 0x7f09006e
+			public const int code_39 = 2131296366;
+			
+			// aapt resource value: 0x7f09006f
+			public const int code_39_full_ascii = 2131296367;
+			
+			// aapt resource value: 0x7f090070
+			public const int code_49 = 2131296368;
+			
+			// aapt resource value: 0x7f090071
+			public const int code_93 = 2131296369;
+			
+			// aapt resource value: 0x7f090072
+			public const int code_93i = 2131296370;
+			
+			// aapt resource value: 0x7f090073
+			public const int composite = 2131296371;
+			
+			// aapt resource value: 0x7f090074
+			public const int composite_cc_a = 2131296372;
+			
+			// aapt resource value: 0x7f090075
+			public const int composite_cc_ab = 2131296373;
+			
+			// aapt resource value: 0x7f090076
+			public const int composite_cc_b = 2131296374;
+			
+			// aapt resource value: 0x7f090077
+			public const int composite_cc_c = 2131296375;
+			
+			// aapt resource value: 0x7f090078
+			public const int composite_code_a = 2131296376;
+			
+			// aapt resource value: 0x7f090079
+			public const int composite_code_b = 2131296377;
+			
+			// aapt resource value: 0x7f09007a
+			public const int composite_code_c = 2131296378;
+			
+			// aapt resource value: 0x7f09007b
+			public const int composite_tlc_39 = 2131296379;
+			
+			// aapt resource value: 0x7f09007c
+			public const int coupon_code = 2131296380;
+			
+			// aapt resource value: 0x7f09007d
+			public const int cuecode = 2131296381;
+			
+			// aapt resource value: 0x7f09007e
+			public const int data_matrix = 2131296382;
+			
+			// aapt resource value: 0x7f09007f
+			public const int data_matrix_ecc140 = 2131296383;
+			
+			// aapt resource value: 0x7f090080
+			public const int data_matrix_ecc200 = 2131296384;
+			
+			// aapt resource value: 0x7f090081
+			public const int discrete_2of5 = 2131296385;
+			
+			// aapt resource value: 0x7f090082
+			public const int ean = 2131296386;
+			
+			// aapt resource value: 0x7f090083
+			public const int ean_128 = 2131296387;
+			
+			// aapt resource value: 0x7f090084
+			public const int ean_13 = 2131296388;
+			
+			// aapt resource value: 0x7f090085
+			public const int ean_13_addon = 2131296389;
+			
+			// aapt resource value: 0x7f090086
+			public const int ean_13_addon_2 = 2131296390;
+			
+			// aapt resource value: 0x7f090087
+			public const int ean_13_addon_5 = 2131296391;
+			
+			// aapt resource value: 0x7f090088
+			public const int ean_8 = 2131296392;
+			
+			// aapt resource value: 0x7f090089
+			public const int ean_8_addon = 2131296393;
+			
+			// aapt resource value: 0x7f09008a
+			public const int ean_8_addon_2 = 2131296394;
+			
+			// aapt resource value: 0x7f09008b
+			public const int ean_8_addon_5 = 2131296395;
+			
+			// aapt resource value: 0x7f09008c
+			public const int ean_addon_2 = 2131296396;
+			
+			// aapt resource value: 0x7f09008d
+			public const int ean_addon_5 = 2131296397;
+			
+			// aapt resource value: 0x7f09008e
+			public const int ean_prefix_378 = 2131296398;
+			
+			// aapt resource value: 0x7f09008f
+			public const int ean_prefix_434 = 2131296399;
+			
+			// aapt resource value: 0x7f090090
+			public const int go_code = 2131296400;
+			
+			// aapt resource value: 0x7f090091
+			public const int gs1_128 = 2131296401;
+			
+			// aapt resource value: 0x7f090092
+			public const int gs1_databar = 2131296402;
+			
+			// aapt resource value: 0x7f090093
+			public const int gs1_databar_14 = 2131296403;
+			
+			// aapt resource value: 0x7f090094
+			public const int gs1_databar_coupon = 2131296404;
+			
+			// aapt resource value: 0x7f090095
+			public const int gs1_databar_expanded = 2131296405;
+			
+			// aapt resource value: 0x7f090096
+			public const int gs1_databar_limited = 2131296406;
+			
+			// aapt resource value: 0x7f090097
+			public const int iata = 2131296407;
+			
+			// aapt resource value: 0x7f090098
+			public const int industrial_2of5 = 2131296408;
+			
+			// aapt resource value: 0x7f090099
+			public const int info_mail = 2131296409;
+			
+			// aapt resource value: 0x7f09009a
+			public const int intelligent_mail = 2131296410;
+			
+			// aapt resource value: 0x7f09009b
+			public const int interleaved_2of5 = 2131296411;
+			
+			// aapt resource value: 0x7f09009c
+			public const int isbn = 2131296412;
+			
+			// aapt resource value: 0x7f09009d
+			public const int isbt_128 = 2131296413;
+			
+			// aapt resource value: 0x7f09009e
+			public const int isbt_128_con = 2131296414;
+			
+			// aapt resource value: 0x7f09009f
+			public const int ismn = 2131296415;
+			
+			// aapt resource value: 0x7f0900a0
+			public const int issn = 2131296416;
+			
+			// aapt resource value: 0x7f0900a1
+			public const int it_pharm = 2131296417;
+			
+			// aapt resource value: 0x7f0900a2
+			public const int japanese_postal = 2131296418;
+			
+			// aapt resource value: 0x7f0900a3
+			public const int kix_code = 2131296419;
+			
+			// aapt resource value: 0x7f0900a4
+			public const int korean_post = 2131296420;
+			
+			// aapt resource value: 0x7f0900a5
+			public const int macro_micro_pdf = 2131296421;
+			
+			// aapt resource value: 0x7f0900a6
+			public const int macro_pdf = 2131296422;
+			
+			// aapt resource value: 0x7f0900a7
+			public const int macro_qr = 2131296423;
+			
+			// aapt resource value: 0x7f0900a8
+			public const int matrix_2of5 = 2131296424;
+			
+			// aapt resource value: 0x7f0900a9
+			public const int matrix_3of5 = 2131296425;
+			
+			// aapt resource value: 0x7f0900aa
+			public const int matrix_post = 2131296426;
+			
+			// aapt resource value: 0x7f0900ab
+			public const int maxicode = 2131296427;
+			
+			// aapt resource value: 0x7f0900ac
+			public const int micro_pdf = 2131296428;
+			
+			// aapt resource value: 0x7f0900ad
+			public const int micro_pdf_cca = 2131296429;
+			
+			// aapt resource value: 0x7f0900ae
+			public const int micro_qr = 2131296430;
 			
 			// aapt resource value: 0x7f090000
 			public const int mr_button_content_description = 2131296256;
@@ -3772,6 +4114,21 @@ namespace POC.Droid
 			// aapt resource value: 0x7f090013
 			public const int mr_user_route_category_name = 2131296275;
 			
+			// aapt resource value: 0x7f0900af
+			public const int msi_plessey = 2131296431;
+			
+			// aapt resource value: 0x7f0900b0
+			public const int nec_2of5 = 2131296432;
+			
+			// aapt resource value: 0x7f0900b1
+			public const int nw_7 = 2131296433;
+			
+			// aapt resource value: 0x7f0900b2
+			public const int ocr = 2131296434;
+			
+			// aapt resource value: 0x7f0900b3
+			public const int one_code = 2131296435;
+			
 			// aapt resource value: 0x7f090039
 			public const int password_toggle_content_description = 2131296313;
 			
@@ -3787,11 +4144,134 @@ namespace POC.Droid
 			// aapt resource value: 0x7f09003d
 			public const int path_password_strike_through = 2131296317;
 			
+			// aapt resource value: 0x7f0900b4
+			public const int pdf417 = 2131296436;
+			
+			// aapt resource value: 0x7f0900b5
+			public const int pharmacode = 2131296437;
+			
+			// aapt resource value: 0x7f0900b6
+			public const int posi_code = 2131296438;
+			
+			// aapt resource value: 0x7f0900b7
+			public const int postal_4i = 2131296439;
+			
+			// aapt resource value: 0x7f0900b8
+			public const int qr_code = 2131296440;
+			
+			// aapt resource value: 0x7f0900b9
+			public const int royal_mail = 2131296441;
+			
+			// aapt resource value: 0x7f0900ba
+			public const int s_code = 2131296442;
+			
+			// aapt resource value: 0x7f0900bb
+			public const int scanlet = 2131296443;
+			
 			// aapt resource value: 0x7f090028
 			public const int search_menu_title = 2131296296;
 			
+			// aapt resource value: 0x7f0900bc
+			public const int signaure_capture = 2131296444;
+			
 			// aapt resource value: 0x7f090029
 			public const int status_bar_notification_info_overflow = 2131296297;
+			
+			// aapt resource value: 0x7f0900bd
+			public const int telepen = 2131296445;
+			
+			// aapt resource value: 0x7f0900be
+			public const int tlc_39 = 2131296446;
+			
+			// aapt resource value: 0x7f0900bf
+			public const int trioptic = 2131296447;
+			
+			// aapt resource value: 0x7f0900c0
+			public const int uk_plessey = 2131296448;
+			
+			// aapt resource value: 0x7f0900c1
+			public const int uk_postal = 2131296449;
+			
+			// aapt resource value: 0x7f0900c2
+			public const int unknown = 2131296450;
+			
+			// aapt resource value: 0x7f0900c3
+			public const int upc = 2131296451;
+			
+			// aapt resource value: 0x7f0900c4
+			public const int upc_a = 2131296452;
+			
+			// aapt resource value: 0x7f0900c5
+			public const int upc_a_addon = 2131296453;
+			
+			// aapt resource value: 0x7f0900c6
+			public const int upc_a_addon_2 = 2131296454;
+			
+			// aapt resource value: 0x7f0900c7
+			public const int upc_a_addon_5 = 2131296455;
+			
+			// aapt resource value: 0x7f0900c8
+			public const int upc_addon_2 = 2131296456;
+			
+			// aapt resource value: 0x7f0900c9
+			public const int upc_addon_5 = 2131296457;
+			
+			// aapt resource value: 0x7f0900ca
+			public const int upc_d = 2131296458;
+			
+			// aapt resource value: 0x7f0900cb
+			public const int upc_e = 2131296459;
+			
+			// aapt resource value: 0x7f0900cc
+			public const int upc_e0 = 2131296460;
+			
+			// aapt resource value: 0x7f0900cd
+			public const int upc_e0_addon_2 = 2131296461;
+			
+			// aapt resource value: 0x7f0900ce
+			public const int upc_e0_addon_5 = 2131296462;
+			
+			// aapt resource value: 0x7f0900cf
+			public const int upc_e1 = 2131296463;
+			
+			// aapt resource value: 0x7f0900d0
+			public const int upc_e1_addon_5 = 2131296464;
+			
+			// aapt resource value: 0x7f0900d1
+			public const int upc_e_addon = 2131296465;
+			
+			// aapt resource value: 0x7f0900d2
+			public const int upc_e_addon_2 = 2131296466;
+			
+			// aapt resource value: 0x7f0900d3
+			public const int upc_e_addon_5 = 2131296467;
+			
+			// aapt resource value: 0x7f0900d4
+			public const int upc_ean = 2131296468;
+			
+			// aapt resource value: 0x7f0900d5
+			public const int upc_ean13_e0 = 2131296469;
+			
+			// aapt resource value: 0x7f0900d6
+			public const int upc_ean13_e0_addon = 2131296470;
+			
+			// aapt resource value: 0x7f0900d7
+			public const int upu_4state = 2131296471;
+			
+			// aapt resource value: 0x7f0900d8
+			public const int upu_fics_postal = 2131296472;
+			
+			// aapt resource value: 0x7f0900d9
+			public const int upu_id_tag_postal = 2131296473;
+			
+			// aapt resource value: 0x7f0900da
+			public const int us_planet = 2131296474;
+			
+			// aapt resource value: 0x7f0900db
+			public const int us_postnet = 2131296475;
+			
+			// aapt resource value: 0x7f0900dc
+			public const int usps_4cb = 2131296476;
 			
 			static String()
 			{
